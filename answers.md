@@ -38,3 +38,20 @@ Changes to be committed:
         new file:   answers.md
 
 Answer 7
+On branch master
+nothing to commit, working tree clean
+
+Answer 8
+commit b9c6fabaaea78da523e31ba5c432a4b22a33718f (HEAD -> master)
+Author: kscarito <ks990322@ohio.edu>
+Date:   Tue Jan 23 11:19:53 2024 -0500
+
+    initial commit
+
+commit 67ca3b24bc95119377f5f58b46aa3b70990edd90
+Author: kscarito <ks990322@ohio.edu>
+Date:   Tue Jan 23 11:17:14 2024 -0500
+
+    Initial commit
+
+Answer 9
